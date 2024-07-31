@@ -1,0 +1,14 @@
+# Blender 4.1.1 MTL File: 'uploads_files_2450127_JapaneseStoneLamp.blend'
+# www.blender.org
+
+newmtl stone
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.104545 0.104545 0.104545
+Ke 0.000000 0.000000 0.000000
+Ni 3.050000
+d 1.000000
+illum 2
+map_Kd Rock Color.jpg
+norm Rock Normal.jpg
+disp Rock Displacement.jpg

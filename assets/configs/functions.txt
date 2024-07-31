@@ -1,0 +1,20 @@
+std::string decrypted_data, char key)
+{
+  std::string encrypted_data = decrypted_data;
+
+  for (auto& character : encrypted_data)
+    character ^= key;
+
+  return encrypted_data;
+}
+
+std::string DecryptData(std::string encrypted_data, char key)
+{
+  std::string decrypted_data = encrypted_data;
+
+  for (auto& character : decrypted_data)
+    character ^= key;
+
+  return decrypted_data;
+}
+

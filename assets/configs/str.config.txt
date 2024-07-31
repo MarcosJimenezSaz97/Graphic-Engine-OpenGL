@@ -1,0 +1,3 @@
+Health: good, excellent
+Str: strong, weak
+Vel: fast, moderate, slow
